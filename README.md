@@ -24,7 +24,7 @@
 
 <p align="center"> 
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="  https://user-images.githubusercontent.com/29006066/160305706-24a3227c-d335-4fce-9565-1f84a4247a01.png" alt="golang" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/29006066/160305706-24a3227c-d335-4fce-9565-1f84a4247a01.png" alt="golang" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
