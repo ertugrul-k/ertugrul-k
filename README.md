@@ -33,10 +33,10 @@
     <img src="https://user-images.githubusercontent.com/29006066/160305479-99eb26e0-11f0-4607-b516-c1b777903186.svg" alt="golang" width="40" height="40"/> 
   </a>
    <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/29006066/160306034-aedcc827-4b8e-450f-9eb4-9bdf78094a16.svg" alt="html5" width="40" height="40"/> 
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+  </a>
     </a>
     <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="  https://user-images.githubusercontent.com/29006066/160305537-c765bdf3-9079-430c-aeff-665e7a053c40.png" alt="html5" width="40" height="40"/> 
