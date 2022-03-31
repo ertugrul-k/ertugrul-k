@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ertugrul <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Ertugrul </h1>
 <h3 align="center">A passionate Software Developer from Turkey</h3>
 
 - 🔭 I’m currently working as a **Senior Backend Developer**
