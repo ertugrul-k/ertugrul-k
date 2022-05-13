@@ -47,7 +47,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=ertugrulkutluer&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
-</p>
